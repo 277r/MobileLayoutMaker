@@ -171,6 +171,7 @@ fn main() {
 
 	// TODO:
 	// sort out letter combinations in the best way, only 26^2 elements, so only (26^2)! options if i calculated correctly
+	// the calculation above was NOT correct
 
 
 
